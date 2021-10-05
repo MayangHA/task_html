@@ -1,0 +1,29 @@
+body {
+    background-color: wheat;
+}
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    background-color: darkkhaki;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+table tr td {
+    border : solid 1pt black;
+}
+
+table tr th {
+     border: solid 1pt black;
+     height: 40px;
+     background-color: DarkKhaki;
+}
+
+table {
+    border : solid 1pt black;
+    border-collapse : collapse;
+    width : 50%;
+    text-align: center;
+
+}
