@@ -1,0 +1,40 @@
+body {
+    background-color: wheat;
+} 
+
+h2 {
+    padding-left: 380px;
+}
+
+table {
+    border : solid 1pt black;
+    border-collapse : collapse;
+    width : 50%;
+    text-align: center;
+
+}
+
+form {
+    background-color: darkkhaki;
+    margin-left: 500px;
+    margin-right: 500px;
+    padding-left: 150px;
+    border-radius: 50px;
+}
+
+ h5 {
+    text-align: center;
+}
+
+th { border: solid 1pt black;
+     height: 40px;
+     background-color: DarkKhaki;
+}
+
+td {
+    border : solid 1pt black;
+}
+
+tr:hover {
+    background-color : CadetBlue;
+}
